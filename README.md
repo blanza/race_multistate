@@ -1,6 +1,7 @@
 # Racial Classification as a Multistate Process
 
-Repository of data and methods used in the paper Racial Classification as a Multistate Process - published in Demographic research 
+Repository of data and methods used in the paper Racial Classification as a Multistate Process - published in Demographic Research 
+
 Jeronimo Muniz, Aliya Saperstein and Bernardo Queiroz
 
 # Abstract
