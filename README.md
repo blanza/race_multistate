@@ -56,17 +56,18 @@ Journal 20.3 (2020): 721-745.
 1) Baseline data – Transitions
 a. Pesquisa Nacional por Amostra de Domicilios – Continua (PNAD-C): public
 available at:
-i.
+i
 https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_p
 or_Amostra_de_Domicilios_continua/Trimestral/Microdados
+
 b. Data were organized using material prepared by Data Zoom
 i. https://www.econ.puc-rio.br/datazoom/english/pnadc.html
 
-2) Mortality Data
+3) Mortality Data
 a. Public Available
 b. Ministry of Health’s Mortality Information System (SIM, Datasus, Ministério da
 Saúde 2021 – available at: https://opendatasus.saude.gov.br/dataset/sim)
 
-3) Population Data
+4) Population Data
 a. 2010: public available for 2010 Population Census (www.ibge.gov.br)
 b. 2019: estimated from the PNAD-C
