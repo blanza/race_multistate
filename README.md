@@ -51,6 +51,14 @@ mslt in Stata
 Muniz, Jeronimo Oliveira. &quot;Multistate life tables using Stata.&quot; The Stata
 Journal 20.3 (2020): 721-745.
 
+# Working Files
+
+1) input_ilt.xls - population and death counts by age and race
+   
+   Population in 2010 and 2020; average death counts in the period
+
+2) input_mslt.dta - file combining transition and mortality rates 
+
 # Baseline data
 
 1) Baseline data – Transitions
