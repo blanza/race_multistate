@@ -35,6 +35,21 @@ demographic analysis.
 Keywords: increment-decrement, life expectancy, life table, multistate, race, Brazil,
 demography, mortality, racial classification
 
+# Stata Packages
+
+1) For mortality adjustment and life tables estimation
+
+ilt in Stata
+
+Muniz, Jerônimo Oliveira. &quot;Iterative intercensal single-decrement life
+tables using Stata.&quot; The Stata Journal 23.3 (2023): 813-834.
+
+2) Multistate Lifetables
+
+mslt in Stata
+Muniz, Jeronimo Oliveira. &quot;Multistate life tables using Stata.&quot; The Stata
+Journal 20.3 (2020): 721-745.
+
 # Baseline data
 
 1) Baseline data – Transitions
