@@ -47,6 +47,7 @@ tables using Stata.&quot; The Stata Journal 23.3 (2023): 813-834.
 2) Multistate Lifetables
 
 mslt in Stata
+
 Muniz, Jeronimo Oliveira. &quot;Multistate life tables using Stata.&quot; The Stata
 Journal 20.3 (2020): 721-745.
 
