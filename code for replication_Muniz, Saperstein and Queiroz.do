@@ -2,7 +2,7 @@
 *Code to replicate tables and figure in the article by						   *
 *Muniz, J., Saperstein, A., and Queiroz, B. (2024)							   *
 *Racial Classification as a Multistate Process, Demographic Research		   *
-*The programs require at least Stata vesion 10.0 							   *
+*The programs require at least Stata vesion 14.0 							   *
 *Files input_ilt.txt and input_mslt.csv must be in the same directory as this  *
 *.do file																	   *
 *																			   *
