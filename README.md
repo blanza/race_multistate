@@ -63,7 +63,7 @@ Journal 20.3 (2020): 721-745.
 
 4) input_mslt.csv  - file combining transition and mortality rates
 
-# 5) code for replication_Muniz, Saperstein and Queiroz.do
+5) code for replication_Muniz, Saperstein and Queiroz.do
 
   i) Code to replicate tables and figure in the article by Muniz, J., Saperstein, A., and Queiroz, B. (2024)							   *
 
