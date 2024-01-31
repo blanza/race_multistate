@@ -61,7 +61,9 @@ Journal 20.3 (2020): 721-745.
 
 3) input_mslt.dta - file combining transition and mortality rates
 
-4) 
+4) input_mslt.csv  - file combining transition and mortality rates
+
+5) 
 
 # Baseline data
 
