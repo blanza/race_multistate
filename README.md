@@ -63,15 +63,15 @@ Journal 20.3 (2020): 721-745.
 
 4) input_mslt.csv  - file combining transition and mortality rates
 
-5) code for replication_Muniz, Saperstein and Queiroz.do
+# 5) code for replication_Muniz, Saperstein and Queiroz.do
 
   i) Code to replicate tables and figure in the article by Muniz, J., Saperstein, A., and Queiroz, B. (2024)							   *
 
-*Racial Classification as a Multistate Process, Demographic Research		   *
+         *Racial Classification as a Multistate Process, Demographic Research		   *
 
-*The programs require at least Stata vesion 10.0 							   *
+         *The programs require at least Stata vesion 10.0 							   *
 
-*Files input_ilt.txt and input_mslt.csv must be in the same directory as this .do file							
+         *Files input_ilt.txt and input_mslt.csv must be in the same directory as this .do file							
 
 # Baseline data
 
