@@ -57,7 +57,11 @@ Journal 20.3 (2020): 721-745.
    
    Population in 2010 and 2020; average death counts in the period
 
-2) input_mslt.dta - file combining transition and mortality rates 
+2) input_ilt.txt - population and death counts by age and race - in non-proprietary format (TXT)   
+
+3) input_mslt.dta - file combining transition and mortality rates
+
+4) 
 
 # Baseline data
 
